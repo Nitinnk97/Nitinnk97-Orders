@@ -13,8 +13,8 @@
         "type": "inventoryItem",
         "ref": "36"
       },
-      "quantity": 2,
-      "rate": 600,
+      "quantity": 4,
+      "rate": 300,
       "amount": 1200
     },
     {
@@ -22,9 +22,9 @@
         "type": "inventoryItem",
         "ref": "2210"
       },
-      "quantity": 1,
+      "quantity": 2,
       "rate": 59069,
-      "amount": 59069
+      "amount": 118138
     }
   ],
   "shippingAddress": {
