@@ -4,9 +4,9 @@
     "type": "customer",
     "ref": "36"
   },
-  "tranDate": "2024-09-27",
+  "tranDate": "2024-09-26",
   "memo": "Test Sales Order",
-  "admin_email": "",
+  "admin_email": "jack@neosalpha.com",
   "item": [
     {
       "item": {
