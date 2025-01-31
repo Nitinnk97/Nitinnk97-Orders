@@ -1,5 +1,5 @@
 {
-  "recordType": "salesOrder",
+  "recordType": "salesOrderss",
   "entity": {
     "type": "customers",
     "ref": "36"
