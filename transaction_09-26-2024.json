@@ -1,5 +1,5 @@
 {
-  "recordType": "purchaseOrder",
+  "recordType": "purchaseOrders",
   "entity": {
     "type": "vendor",
     "ref": "737"
