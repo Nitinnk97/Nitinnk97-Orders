@@ -1,7 +1,7 @@
 {
-  "recordType": "salesOrders",
+  "recordType": "salesOrder",
   "entity": {
-    "type": "customers",
+    "type": "customer",
     "ref": "36"
   },
   "tranDate": "2025-01-22",
